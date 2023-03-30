@@ -1,2 +1,2 @@
 # vid-otheque
-cours
+Les cours vues, mais pas finit.
